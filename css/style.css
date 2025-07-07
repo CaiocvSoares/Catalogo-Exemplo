@@ -15,7 +15,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     color: white;
-    background-color: #0F216E;
+    background-image:linear-gradient(to bottom, #0F216E 70%, #2b41a3);
 }
 
 html, body {
